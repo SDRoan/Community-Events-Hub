@@ -1,0 +1,15 @@
+[
+    {
+      "id": 1,
+      "title": "Handmade Mug",
+      "description": "A beautifully crafted ceramic mug.",
+      "price": 15
+    },
+    {
+      "id": 2,
+      "title": "Organic Soap",
+      "description": "Natural, handmade soap bars.",
+      "price": 8
+    }
+  ]
+  

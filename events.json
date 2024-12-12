@@ -1,0 +1,19 @@
+[
+    {
+      "id": 1,
+      "title": "Yoga at the Park",
+      "description": "A relaxing yoga session.",
+      "date": "2024-12-20",
+      "time": "10:00 AM",
+      "location": "City Park"
+    },
+    {
+      "id": 2,
+      "title": "Community Cleanup",
+      "description": "Help clean the park.",
+      "date": "2024-12-21",
+      "time": "9:00 AM",
+      "location": "Greenway Park"
+    }
+  ]
+  
